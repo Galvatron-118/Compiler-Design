@@ -1,0 +1,27 @@
+dim -> DIM
+i -> ID
+as -> AS
+integer -> INTEGER
+
+For -> FOR
+i -> ID
+= -> ASSIGN
+1 -> NUM
+To -> TO
+9.9 -> FLOAT
+
+For -> FOR
+j -> ID
+= -> ASSIGN
+10 -> NUM
+To -> TO
+20 -> NUM
+
+Next -> NEXT
+j -> ID
+
+Next -> NEXT
+i -> ID
+
+
+Parsing Finished

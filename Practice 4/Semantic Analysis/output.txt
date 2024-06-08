@@ -1,0 +1,4 @@
+ In line no 1, Inserting a with type REAL_TYPE in symbol table.
+
+
+Parsing finished!

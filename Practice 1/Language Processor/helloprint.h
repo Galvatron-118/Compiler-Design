@@ -1,0 +1,1 @@
+char myPrint(char *s);

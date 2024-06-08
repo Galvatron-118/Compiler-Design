@@ -1,0 +1,4 @@
+1 -> NUM
++ -> ADDOP
+2 -> NUM
+Parsing Finished
